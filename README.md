@@ -43,6 +43,7 @@ A curated list of awesome data labeling tools
 * [peak.js](https://github.com/bbc/peaks.js) - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
 * [Praat](https://github.com/praat/praat) - Doing Phonetics By Computer
 * [Aubio](https://aubio.org/) - Tool designed for the extraction of annotations from audio signals.
+* [Cicada](https://github.com/ShivarajMeti/cicada-audio-annotation-tool) - Cicada is an audio annotation tool which can be used to annotate .wav files and save the annotation in Pickle (Python List) format (currently). Eventually it can be made it save as JSON, XML format as well.
 
 #### Video 
 
